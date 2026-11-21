@@ -334,11 +334,11 @@ RetailMart-Sales-Analytics/
 │   └── processed/
 │
 ├── notebooks/
-│   ├── 01_Data_Exploration.ipynb
-│   ├── 02_Business_Analysis.ipynb
-│   ├── 03_Revenue_Analysis.ipynb
-│   ├── 04_Operations_Analysis.ipynb
-│   └── 05_Profit_Analysis.ipynb
+│   ├── 01_Business_or_Revenue_Analysis.ipynb
+│   ├── 02_Operations_Analysis.ipynb
+│   ├── 03_Profit_Analysis.ipynb
+│   
+│   
 │
 ├── sql/
 │   ├── 01_create_tables.sql
@@ -348,7 +348,7 @@ RetailMart-Sales-Analytics/
 │   └── 05_analysis_queries.sql
 │
 ├── dashboard/
-│   └── RetailMart_Sales_Analytics.pbix
+│   └── Retail_Sales_Analsis.pbix
 │
 ├── screenshots/
 │   ├── 01_Executive_Overview.png
