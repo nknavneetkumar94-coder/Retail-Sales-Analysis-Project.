@@ -237,6 +237,7 @@ Provides a management-level summary of business performance:
 - Sales by product category
 - Profit by product category
 - Sales by region
+<img width="2786" height="1563" alt="Executive Overview" src="https://github.com/user-attachments/assets/d73483f7-c8d7-43be-91a1-807d10c0569d" />
 2. Sales & Profit Performance
 Provides deeper financial and product analysis:
 - Total Sales, Total Cost, Total Profit, Profit Margin, and Average
@@ -246,6 +247,8 @@ Provides deeper financial and product analysis:
 - Top 10 Products by Profit
 - Profit by Brand
 - Sales vs. Profit by Product
+<img width="2789" height="1589" alt="Sales   profit Performance" src="https://github.com/user-attachments/assets/8b0999a9-b779-4849-a388-8228a9d45e48" />
+
 3. Operations & Customer Insights
 Focuses on customer contribution and operational performance:
 - Top customers by sales
@@ -254,12 +257,17 @@ Focuses on customer contribution and operational performance:
 - Stock by warehouse
 - Product-level sales, profit, stock, reorder level, and profit margin
   information
+
+  <img width="2790" height="1584" alt="Operations   Customer Insights" src="https://github.com/user-attachments/assets/e2c2aef4-988d-43ff-8ccc-15be2b03dce1" />
+
 4. Sales & Profit Trends
 Provides month-wise and year-wise performance analysis:
 - Monthly sales trend
 - Monthly profit trend
 - Comparison of 2025 and 2026 where data is available
 - Month-wise sales and profit analysis
+<img width="2782" height="1570" alt="Sales   Profit Trends" src="https://github.com/user-attachments/assets/175c1134-286b-4fe9-b325-65c87e213cea" />
+
 Dashboard design: Modern corporate styling with a navy and teal
 color palette, consistent KPI cards, interactive slicers, and
 chart-based analysis.
